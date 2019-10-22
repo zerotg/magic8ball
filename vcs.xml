@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/HSA-Columbus/data-structures-ex-1-creating-usernames-zerotg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HSA-Columbus/data-structures-ex-2-creating-usernames-excel-file-zerotg.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\misael.bello\PycharmProjects" />
