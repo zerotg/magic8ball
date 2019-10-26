@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="xlxs" type="PLAIN_TEXT" />
       <mapping pattern="QUIZ" type="Python" />
     </extensionMap>
   </component>
