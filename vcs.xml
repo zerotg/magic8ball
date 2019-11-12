@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/HSA-Columbus/dice-rolling-app-blow-the-wind.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HSA-Columbus/flask-and-handling-exceptions-zerotg.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\misael.bello\PycharmProjects" />
