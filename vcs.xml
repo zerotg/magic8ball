@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/HSA-Columbus/pizza-ordering-system-zerotg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HSA-Columbus/git-training-zerotg.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\misael.bello\PycharmProjects" />
